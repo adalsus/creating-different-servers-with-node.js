@@ -1,0 +1,19 @@
+{
+  "name": "simple-web_server-in-node",
+  "version": "1.0.0",
+  "description": "simple_server_madeby_adalsus\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C \u001b[C\u001b[C\u001b[D\u001b[Db\u001b[C\u001b[Dy por adalsus\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "main.js\u001b[D\u001b[C",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C.git"
+  },
+  "author": "adalsus\u001b[D\u001b[C\u001b[D\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C/issues"
+  },
+  "homepage": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C#readme"
+}
