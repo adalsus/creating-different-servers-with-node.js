@@ -1,21 +1,21 @@
 {
   "name": "simple-web_server-in-node",
   "version": "1.0.0",
-  "description": "simple_server_madeby_adalsus\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C \u001b[C\u001b[C\u001b[D\u001b[Db\u001b[C\u001b[Dy por adalsus\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D",
-  "main": "main.js\u001b[D\u001b[C",
+  "description": "simple server made by adalsus",
+  "main": "main.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C.git"
+    "url": "git+https://github.com/adalsus/simple-web_server-in-node.js.git"
   },
-  "author": "adalsus\u001b[D\u001b[C\u001b[D\u001b[C",
+  "author": "adalsus",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C/issues"
+    "url": "https://github.com/adalsus/simple-web_server-in-node.js.git"
   },
-  "homepage": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C#readme",
+  "homepage": "https://github.com/adalsus/simple-web_server-in-node.js.git#readme",
   "dependencies": {
     "http-status-codes": "^2.2.0"
   }
