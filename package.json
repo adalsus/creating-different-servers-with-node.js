@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C/issues"
   },
-  "homepage": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C#readme"
+  "homepage": "https://github.com/adalsus/simple-web_server-in-node.js.git\u001b[D\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C#readme",
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  }
 }
